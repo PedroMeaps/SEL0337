@@ -46,8 +46,8 @@ Caminho do projeto: `/home/sel/PedroRuan/`
 
 ### Inicialização
 
-* ![Demonstração Inicializar][inicializar.jpg]
+* ![Demonstração Inicializar](inicializar.jpg)
 
 ### Parando (stop)
 
-* ![Demonstração Inicializar][stop.jpg]
+* ![Demonstração Inicializar](stop.jpg)
