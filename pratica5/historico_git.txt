@@ -1,0 +1,29 @@
+commit 9ea4b229e5425b4f1f5b93fee55f29dd67e2adc6
+Author: PedroMeaps <pedromeaps.aluno@usp.br>
+Date:   Fri Dec 12 17:59:55 2025 -0300
+
+    tentativa2 de enviar os arquivos
+
+commit 16b1adbb10bddf1f799268e4f21390079c193dfc
+Author: PedroMeaps <139907902+PedroMeaps@users.noreply.github.com>
+Date:   Fri Dec 12 16:05:56 2025 -0300
+
+    Delete pratica5/a
+
+commit eb0393f3f78f14c05a85d557dccf0621109f711e
+Author: PedroMeaps <139907902+PedroMeaps@users.noreply.github.com>
+Date:   Fri Dec 12 16:05:18 2025 -0300
+
+    Create readME
+
+commit eeb0e67cb6899c0b5159fc8e8b730965693b5ef5
+Author: PedroMeaps <139907902+PedroMeaps@users.noreply.github.com>
+Date:   Mon Dec 8 11:23:21 2025 -0300
+
+    Create a
+
+commit cbe7583618729ec0b3e7a06f6507d68851ad8d71
+Author: PedroMeaps <139907902+PedroMeaps@users.noreply.github.com>
+Date:   Mon Dec 8 11:19:29 2025 -0300
+
+    Initial commit

@@ -1,0 +1,75 @@
+   65  git init
+   66  git config --global user.name "PedroMeaps
+   67  git config --global user.name "PedroMeaps"
+   68  git status
+   69  git clone https://github.com/PedroMeaps/SEL0337 && cd git
+   70  history
+   71  git config --global user.email "pedromeaps.aluno@usp.br"
+   72  ls
+   73  cd SEL0337
+   74  ls
+   75  cd pratica5
+   76  git add .
+   77  ls
+   78  cd ..
+   79  cd ..
+   80  git add .
+   81  ls
+   82  git status
+   83  cd SEL0337
+   84  git add .
+   85  ls
+   86  cd pratica5
+   87  git add teste.txt
+   88  git add blink2.py
+   89  git add /mnt/c/Users/pedro/pedroprati5/blink2.py
+   90  cd ..
+   91  cd ..
+   92  ls
+   93  git status . 
+   94  git commit
+   95  git commit -m "helloWorld"
+   96  cd SEL0337
+   97  ls
+   98  cd pratica5
+   99  ls
+  100  git push
+  101  git push
+  102  git push
+  103  ..
+  104  cd ..
+  105  git push
+  106  git cancel
+  107  cd pratica5
+  108  git push
+  109  ls
+  110  cd ..
+  111  ls
+  112  git status
+  113  git reset
+  114  cd pratica5
+  115  ls
+  116  rm readME
+  117  ls
+  118  cp -r * SEL0337/pratica5/
+  119  cd ..
+  120  cd ..
+  121  cp -r * SEL0337/pratica5/
+  122  cd SEL0337
+  123  cd pratica5
+  124  ls
+  125  rm -r SEL0337
+  126  ls
+  127  cd ..
+  128  git add .
+  129  git commit -m "tentativa2 de enviar os arquivos"
+  130  git push
+  131  git log
+  132  git log > historico_git.txt
+  133  ls
+  134  git mv historico_git.txt pratica5/historico_git.txt
+  135  mcv
+  136  mv historico_git.txt pratica5
+  137  cd pratica5
+  138  ls
+  139  history > historicoTerminal.txt
