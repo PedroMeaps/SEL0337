@@ -1,0 +1,10 @@
+[Unit]
+Description= Blink LED
+After = multi-user.target
+
+[Service]
+ExecStart=/home/sel/PedroRuan/p5p1.sh
+ExecStop=/home/sel/PedroRuan/contador.sh
+[Install]
+
+WantedBy=multi-user.target
