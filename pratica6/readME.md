@@ -1,7 +1,6 @@
 **Autor:** 
 * Pedro Pontes - 13864627
-
-           Ruan Victor - 14691533
+* Ruan Victor - 14691533
 # Diferencial Eletronico com ESP32 e FreeRTOS
 
 
