@@ -4,7 +4,7 @@
 # Diferencial Eletronico com ESP32 e FreeRTOS
 
 
-> **Projeto Final - SEL0337 - Projetos em Sistemas Embarcados** > Escola de Engenharia de Sao Carlos (EESC-USP)
+> ** Parte 3: Projeto Final - SEL0337 - Projetos em Sistemas Embarcados** > Escola de Engenharia de Sao Carlos (EESC-USP)
 
 ## Sobre o Projeto
 
