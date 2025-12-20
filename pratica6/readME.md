@@ -129,4 +129,4 @@ if (curva_direita) {
 ```
 ## imagem da simulação no wokwi
 
-* ![Simulação Wokwi][Captura de tela 2025-12-20 085613.png]
+* ![Simulação Wokwi](Captura de tela 2025-12-20 085613.png)
