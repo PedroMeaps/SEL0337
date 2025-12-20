@@ -126,6 +126,6 @@ if (curva_direita) {
     pwm_Esquerda = w * (1.0 + D * tan(vm) / (2.0 * L));
     pwm_Direita  = w * (1.0 - D * tan(vm) / (2.0 * L));
 }
-
+```
 ## imagem da simulação no wokwi
 * ![Demonstração Inicializar][Captura de tela 2025-12-20 085613.png]
